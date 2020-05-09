@@ -3,8 +3,8 @@
     "repo": "hluo1022.github.io",
     "client_id": "5f491e957b104573c6b7",
     "client_secret": "a12b44bca54ee6e735ea7f9e1c6f065f795ac14d",
-    "title": "Gitblog",
-    "instruction": "基于GitHub issue的个人博客模板",
+    "title": "Blog",
+    "instruction": "Blog",
     "server_link": "http://119.23.8.25/gh-oauth-server.php",
     "filter": {
         "creator": "all",
@@ -14,14 +14,7 @@
         "首页":"./"
     },
     "friends": {
-        "imuncle" : "https://imuncle.github.io"
     },
     "icons": {
-        "Github" : {
-            "icon_src" : "images/github.svg",
-            "href" : "https://github.com/imuncle/gitblog",
-            "hidden_img" : null,
-            "width" : 0
-        }
     }
 }
